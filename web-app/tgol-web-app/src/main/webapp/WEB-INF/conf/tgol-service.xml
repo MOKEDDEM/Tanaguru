@@ -42,6 +42,8 @@
     <import resource="classpath:conf/context/beans-tanaguru.xml"/>
     <!--<import resource="classpath:conf/context/spring-jms-tanaguru.xml"/>-->
 
+    <import resource="classpath:conf/context/spring-kafka-tanaguru.xml"/>
+
     <!-- tgol imports -->
     <import resource="tgol-beans-decorator.xml"/>
     <import resource="tgol-beans-email-sender.xml"/>
