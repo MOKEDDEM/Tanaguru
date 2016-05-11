@@ -58,6 +58,13 @@
             <groupId>org.tanaguru</groupId>
             <artifactId>tanaguru-jms</artifactId>
         </dependency>
+        
+        <dependency>
+            <groupId>org.tanaguru</groupId>
+            <artifactId>tanaguru-kafka</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        
         <dependency>
             <groupId>${engineGroupId}</groupId>
             <artifactId>tanaguru-resources</artifactId>
